@@ -3,7 +3,7 @@
 
 ## README.md
 
-## add logo.png here
+![logo](https://user-images.githubusercontent.com/44171411/57285640-eed67600-70b3-11e9-8020-a83d2e0a7554.png)
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
