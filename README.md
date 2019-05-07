@@ -39,11 +39,11 @@
 ### Componenti gruppo
 
 
-- **Akash Verma** *(Program developer)*	  -- https://github.com/itisverma
-- **Nicola Prevedello** *(Presentation developer)*
-- **Ye Conghzu** *(Circuit developer)*
-- **Manolache Pavel** *(UML developer)*
-- **Ismail Rachid** *(Something)*
+- **Akash Verma** *([Program Developer](https://github.com/itisverma/speedPI/tree/master/code))*	  -- https://github.com/itisverma
+- **Nicola Prevedello** *([Presentation developer](https://prezi.com/wdbphm_2kc77/?utm_campaign=share&utm_medium=copy&rc=ex0share))*
+- **Ye Conghzu** *([Circuit developer](https://github.com/itisverma/speedPI/tree/master/extra)))*
+- **Manolache Pavel** *([UML developer](https://github.com/itisverma/speedPI/tree/master/umlDiagrams)))*
+- **Ismail Rachid** *([Something](https://github.com/itisverma/speedPI/tree/master/extra))*
      
 ----
                 
