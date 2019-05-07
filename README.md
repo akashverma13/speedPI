@@ -1,7 +1,7 @@
-### What is SpeedPI?
+# What is SpeedPI?
 **SpeedPI is a tool that lets you test your internet connection with jush a push of a button.**
 
-# README.md
+## README.md
 
 ## add logo.png here
 
