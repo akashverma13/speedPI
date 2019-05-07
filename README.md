@@ -30,7 +30,10 @@
    		if channel == 16:	##In this case the channel is 16
         		os.system("/home/root/myscripts/speedtest.py")
 ### Circuit
-### Insert circuit image here
+
+![Circuit](https://user-images.githubusercontent.com/44171411/57286331-50e3ab00-70b5-11e9-8209-ffb893d57890.jpg)
+
+
 ----
 
 ### Componenti gruppo
