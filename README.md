@@ -46,17 +46,7 @@
                 
 ### FlowChart
 
-```flow
-st=>start: Boot up Raspberry PI
-op0=>operation: "main.py" starts
-op=>operation: "main.py" is waiting for input
-cond=>condition: Is the buttun pressed - Yes or No?
-e=>end: Begin test & Print on display
-
-st->op0->op->cond
-cond(yes)->e
-cond(no)->op
-```
+![flowchart](https://user-images.githubusercontent.com/44171411/57286116-e92d6000-70b4-11e9-9940-9a943dcd2b35.png)
 
 ### Sequence Diagram
 insert here
