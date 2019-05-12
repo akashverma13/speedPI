@@ -42,7 +42,7 @@
 - **Akash Verma** *([Program Developer](https://github.com/itisverma/speedPI/tree/master/code))*	  -- https://github.com/itisverma
 - **Nicola Prevedello** *([Presentation developer](https://prezi.com/wdbphm_2kc77/?utm_campaign=share&utm_medium=copy&rc=ex0share))*    --  https://github.com/PRVNick
 - **Ye Congzhou** *([Circuit developer](https://user-images.githubusercontent.com/44171411/57286331-50e3ab00-70b5-11e9-8209-ffb893d57890.jpg))*  -- https://github.com/congzhouye
-- **Manolache Pavel** *([UML developer](https://github.com/itisverma/speedPI/tree/master/umlDiagrams))*
+- **Manolache Pavel** *([UML developer](https://github.com/itisverma/speedPI/tree/master/umlDiagrams))* -- https://github.com/PavelManolache
 - **Ismail Rachid** *([UML developer](https://github.com/itisverma/speedPI/tree/master/umlDiagrams))*
      
 ----
