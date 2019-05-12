@@ -43,7 +43,7 @@
 - **Nicola Prevedello** *([Presentation developer](https://prezi.com/wdbphm_2kc77/?utm_campaign=share&utm_medium=copy&rc=ex0share))*
 - **Ye Conghzu** *([Circuit developer](https://user-images.githubusercontent.com/44171411/57286331-50e3ab00-70b5-11e9-8209-ffb893d57890.jpg)))*
 - **Manolache Pavel** *([UML developer](https://github.com/itisverma/speedPI/tree/master/umlDiagrams)))*
-- **Ismail Rachid** *([Something](https://github.com/itisverma/speedPI/tree/master/extra))*
+- **Ismail Rachid** *([UML developer](https://github.com/itisverma/speedPI/tree/master/umlDiagrams))*
      
 ----
                 
@@ -51,9 +51,9 @@
 
 ![flowchart](https://user-images.githubusercontent.com/44171411/57286116-e92d6000-70b4-11e9-9940-9a943dcd2b35.png)
 
-### Sequence Diagram
+### UML CLASS
 insert here
-### UML Diagrams
+### UML User case
 insert here
 ```
 
