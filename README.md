@@ -53,8 +53,9 @@
 
 ### UML Sequence Diagram
 ![Sequence](https://user-images.githubusercontent.com/44171411/57600113-2b451e80-7559-11e9-9d09-33273f5a5a09.jpg)
-### UML User case
-insert here
+### UML User case Diagram
+![User case](https://user-images.githubusercontent.com/44171411/57600149-47e15680-7559-11e9-9f84-5ffa81c3824e.jpg)
+
 ```
 
 
