@@ -51,8 +51,8 @@
 
 ![flowchart](https://user-images.githubusercontent.com/44171411/57286116-e92d6000-70b4-11e9-9940-9a943dcd2b35.png)
 
-### UML CLASS
-insert here
+### UML Sequence Diagram
+![Sequence](https://user-images.githubusercontent.com/44171411/57600113-2b451e80-7559-11e9-9d09-33273f5a5a09.jpg)
 ### UML User case
 insert here
 ```
