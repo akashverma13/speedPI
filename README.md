@@ -13,7 +13,7 @@
 
 ### Instructions
 
-#### What to install, before testing your internet connection.
+#### What to install before testing your internet connection.
 
 `$ pip install RPi.GPIO`
 
@@ -24,7 +24,7 @@
 
 #### Main function (On boot up)
 
-**This** is the **main** function that is run when the **PI** **boots** **up**.
+**This** is the **main** function that runs when the **PI** **boots** **up**.
 
     def onButton(channel):
    		if channel == 16:	##In this case the channel is 16
@@ -36,7 +36,7 @@
 
 ----
 
-### Componenti gruppo
+### Group
 
 
 - **Akash Verma** *([Program Developer](https://github.com/itisverma/speedPI/tree/master/code))*	  -- https://github.com/itisverma
